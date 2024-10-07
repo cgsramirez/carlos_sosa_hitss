@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'prueba-carlos-sosa-80772692';
+  title = 'Gestión de Perfiles y Modulos';
 }
